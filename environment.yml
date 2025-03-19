@@ -1,0 +1,9 @@
+name: env_lunar_brightness
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - jupyterlab
+  - matplotlib
+prefix: C:\Users\sheakes\.conda\envs\env_lunar_brightness
